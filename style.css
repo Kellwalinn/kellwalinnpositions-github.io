@@ -23,6 +23,7 @@ h5{
 img{
   border-style: dotted;
   border-color: #8FBC8F;
-  border-radius: 75%;
+  max-width: 100%;
+  height: auto;
   text-align: center;
  }
