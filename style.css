@@ -19,3 +19,10 @@ h5{
   font-size: 15px;
   text-align: center;
 }
+
+img{
+  border-style: dotted;
+  border-color: #8FBC8F;
+  border-radius: 30px;
+  text-align: center;
+ }
